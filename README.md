@@ -1,2 +1,0 @@
-# IMPACTA
-Faculdade Imapacta Tecnologia
