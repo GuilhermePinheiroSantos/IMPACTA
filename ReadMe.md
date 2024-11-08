@@ -1,15 +1,15 @@
 # 🎓 Repositório de Materiais da Faculdade 📚
 
 ## 📝 Sobre
-    Este repositório contém todos os materiais relacionados ao curso de Ciência da Computação 💻 que estou cursando. 
-    Aqui você encontrará anotações, exercícios, projetos e outros recursos que compartilho para facilitar o aprendizado e o acompanhamento dos tópicos estudados.
+Este repositório contém todos os materiais relacionados ao curso de Ciência da Computação 💻 que estou cursando. 
+Aqui você encontrará anotações, exercícios, projetos e outros recursos que compartilho para facilitar o aprendizado e o acompanhamento dos tópicos estudados.
 
 
 ## Conteúdos 
-    Anotações 🖊️: Resumos, notas de aula e insights.
-    Exercícios 🧠: Práticas de programação, resolução de problemas e exercícios de revisão.
-    Projetos 🛠️: Projetos e trabalhos práticos desenvolvidos durante o curso.
-    Recursos Extras 📖: Livros, artigos, atividades complementares e links úteis para o aprofundamento dos tópicos.
+Anotações 🖊️: Resumos, notas de aula e insights.
+Exercícios 🧠: Práticas de programação, resolução de problemas e exercícios de revisão.
+Projetos 🛠️: Projetos e trabalhos práticos desenvolvidos durante o curso.
+Recursos Extras 📖: Livros, artigos, atividades complementares e links úteis para o aprofundamento dos tópicos.
 
 ## 📂 Estrutura do Repositório
         1º Semestre
