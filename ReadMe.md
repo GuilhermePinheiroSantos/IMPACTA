@@ -6,10 +6,13 @@ Aqui você encontrará anotações, exercícios, projetos e outros recursos que 
 
 
 ## Conteúdos 
-Anotações 🖊️: Resumos, notas de aula e insights.
-Exercícios 🧠: Práticas de programação, resolução de problemas e exercícios de revisão.
-Projetos 🛠️: Projetos e trabalhos práticos desenvolvidos durante o curso.
-Recursos Extras 📖: Livros, artigos, atividades complementares e links úteis para o aprofundamento dos tópicos.
+• Anotações 🖊️: Resumos, notas de aula e insights.
+
+• Exercícios 🧠: Práticas de programação, resolução de problemas e exercícios de revisão.
+
+• Projetos 🛠️: Projetos e trabalhos práticos desenvolvidos durante o curso.
+
+• Recursos Extras 📖: Livros, artigos, atividades complementares e links úteis para o aprofundamento dos tópicos.
 
 ## 📂 Estrutura do Repositório
         1º Semestre
