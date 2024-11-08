@@ -41,22 +41,22 @@ Aqui você encontrará anotações, exercícios, projetos e outros recursos que 
 
             • Materiais: Notas de aula, exercícios.
 
-        
-    • Disciplinas: Soft Skills 🧠
 
-            • Conteúdo: Comunicação verbal e escrita, escuta ativa, empatia, gestão de diversidade, liderança, inspiração e motivação, delegação eficiente de tarefas, feedback construtivo, inteligencia emocional e o que o mercado espera de você.
+    • Disciplinas: Fundamentos da Ciência da Computação 🖥️
 
-            • Materiais: Notas de aula, cases.
-
-            
-    • Disciplinas: Fundamentos da Ciência da Computação
-
-            • Conteúdo: Aprimorar o raciocínio abstrato e lógico,
+        • Conteúdo: Aprimorar o raciocínio abstrato e lógico,
                 conhecer a teoria e álgebra dos conjuntos, lógica Formal: Introdução à Lógica Proposicional e a Lógica de Predicados, teoria dos conjuntos: Notações para conjuntos. Igualdade de conjuntos. Subconjuntos.Operações entre conjuntos. Produto cartesiano. Identidades de conjuntos, análise Combinatória: Princípios básicos da contagem. Arranjos, Permutações,combinações e Princípio da Casa dos Pombos.
 
-            • Materiais: Notas de aula, exercícios.
+        • Materiais: Notas de aula, exercícios.
+   
 
+    • Disciplinas: Soft Skills 🧠
 
+        • Conteúdo: Comunicação verbal e escrita, escuta ativa, empatia, gestão de diversidade, liderança, inspiração e motivação, delegação eficiente de tarefas, feedback construtivo, inteligencia emocional e o que o mercado espera de você.
+
+        • Materiais: Notas de aula, cases.
+
+            
 
 # 🚀 Como Usar este Repositório
 Para acessar os materiais, você pode:
