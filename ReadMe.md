@@ -15,46 +15,46 @@ Aqui você encontrará anotações, exercícios, projetos e outros recursos que 
 • Recursos Extras 📖: Livros, artigos, atividades complementares e links úteis para o aprofundamento dos tópicos.
 
 ## 📂 Estrutura do Repositório
-        1º Semestre
+1º Semestre
 
-            • Disciplinas: Lógica de Programação 🧑‍💻
+    • Disciplinas: Lógica de Programação 🧑‍💻
 
-                • Linguagem de Programação : Python
+        • Linguagem de Programação : Python
 
-                • Conteúdo: Fundamentos básicos, sintaxe, variáveis, controle de fluxo, tipos de dados, operadores Matemáticos e lógicos, funções e resolução de problemas com fluxogramas.
+            • Conteúdo: Fundamentos básicos, sintaxe, variáveis, controle de fluxo, tipos de dados, operadores Matemáticos e lógicos, funções e resolução de problemas com fluxogramas.
 
-                • Materiais: Notas de aula, exercícios de lógica, e primeiros algoritmos.
-
-
-            • Disciplinas: Linguagem de Programação 🧑‍💻
-
-                • Linguagem de Programação : Python
-
-                • Conteúdo: Fundamentos básicos, sintaxe, variáveis, controle de fluxo, tipos de dados, operadores Matemáticos e lógicos e algoritmos simples.
-
-                • Materiais: Notas de aula, exercícios de lógica, e primeiros algoritmos.
+            • Materiais: Notas de aula, exercícios de lógica, e primeiros algoritmos.
 
 
-            • Disciplinas: Arquitetura de Computadores 🖥️
+    • Disciplinas: Linguagem de Programação 🧑‍💻
 
-                • Conteúdo: Introdução à arquitetura de computadores, diferença entre hardware e software, componentes principais de um sistema computacional (CPU, memória, dispositivos de entrada/saída, etc.), função da CPU, Arquitetura de Von Neumann vs Arquitetura Harvard, pipelines e paralelismo. barramentos, tipo de memória, tipos de processadores: CISC (Complex Instruction Set Computing) vs RISC (Reduced Instruction Set Computing).  
+        • Linguagem de Programação : Python
 
-                • Materiais: Notas de aula, exercícios.
+            • Conteúdo: Fundamentos básicos, sintaxe, variáveis, controle de fluxo, tipos de dados, operadores Matemáticos e lógicos e algoritmos simples.
+
+            • Materiais: Notas de aula, exercícios de lógica, e primeiros algoritmos.
+
+
+    • Disciplinas: Arquitetura de Computadores 🖥️
+
+        • Conteúdo: Introdução à arquitetura de computadores, diferença entre hardware e software, componentes principais de um sistema computacional (CPU, memória, dispositivos de entrada/saída, etc.), função da CPU, Arquitetura de Von Neumann vs Arquitetura Harvard, pipelines e paralelismo. barramentos, tipo de memória, tipos de processadores: CISC (Complex Instruction Set Computing) vs RISC (Reduced Instruction Set Computing).  
+
+            • Materiais: Notas de aula, exercícios.
 
         
-            • Disciplinas: Soft Skills 🧠
+    • Disciplinas: Soft Skills 🧠
 
-                • Conteúdo: Comunicação verbal e escrita, escuta ativa, empatia, gestão de diversidade, liderança, inspiração e motivação, delegação eficiente de tarefas, feedback construtivo, inteligencia emocional e o que o mercado espera de você.
+            • Conteúdo: Comunicação verbal e escrita, escuta ativa, empatia, gestão de diversidade, liderança, inspiração e motivação, delegação eficiente de tarefas, feedback construtivo, inteligencia emocional e o que o mercado espera de você.
 
-                • Materiais: Notas de aula, cases.
+            • Materiais: Notas de aula, cases.
 
             
-            • Disciplinas: Fundamentos da Ciência da Computação
+    • Disciplinas: Fundamentos da Ciência da Computação
 
-                • Conteúdo: Aprimorar o raciocínio abstrato e lógico,
+            • Conteúdo: Aprimorar o raciocínio abstrato e lógico,
                 conhecer a teoria e álgebra dos conjuntos, lógica Formal: Introdução à Lógica Proposicional e a Lógica de Predicados, teoria dos conjuntos: Notações para conjuntos. Igualdade de conjuntos. Subconjuntos.Operações entre conjuntos. Produto cartesiano. Identidades de conjuntos, análise Combinatória: Princípios básicos da contagem. Arranjos, Permutações,combinações e Princípio da Casa dos Pombos.
 
-                • Materiais: Notas de aula, exercícios.
+            • Materiais: Notas de aula, exercícios.
 
 
 
