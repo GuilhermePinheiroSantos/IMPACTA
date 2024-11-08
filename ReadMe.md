@@ -37,26 +37,51 @@ Aqui você encontrará anotações, exercícios, projetos e outros recursos que 
 
     • Disciplinas: Arquitetura de Computadores 🖥️
 
-        • Conteúdo: Introdução à arquitetura de computadores, diferença entre hardware e software, componentes principais de um sistema computacional (CPU, memória, dispositivos de entrada/saída, etc.), função da CPU, Arquitetura de Von Neumann vs Arquitetura Harvard, pipelines e paralelismo. barramentos, tipo de memória, tipos de processadores: CISC (Complex Instruction Set Computing) vs RISC (Reduced Instruction Set Computing).  
+            • Conteúdo: Introdução à arquitetura de computadores, diferença entre hardware e software, componentes principais de um sistema computacional (CPU, memória, dispositivos de entrada/saída, etc.), função da CPU, Arquitetura de Von Neumann vs Arquitetura Harvard, pipelines e paralelismo. barramentos, tipo de memória, tipos de processadores: CISC (Complex Instruction Set Computing) vs RISC (Reduced Instruction Set Computing).  
 
             • Materiais: Notas de aula, exercícios.
 
 
     • Disciplinas: Fundamentos da Ciência da Computação 🖥️
 
-        • Conteúdo: Aprimorar o raciocínio abstrato e lógico,
+            • Conteúdo: Aprimorar o raciocínio abstrato e lógico,
                 conhecer a teoria e álgebra dos conjuntos, lógica Formal: Introdução à Lógica Proposicional e a Lógica de Predicados, teoria dos conjuntos: Notações para conjuntos. Igualdade de conjuntos. Subconjuntos.Operações entre conjuntos. Produto cartesiano. Identidades de conjuntos, análise Combinatória: Princípios básicos da contagem. Arranjos, Permutações,combinações e Princípio da Casa dos Pombos.
 
-        • Materiais: Notas de aula, exercícios.
+            • Materiais: Notas de aula, exercícios.
    
 
     • Disciplinas: Soft Skills 🧠
 
-        • Conteúdo: Comunicação verbal e escrita, escuta ativa, empatia, gestão de diversidade, liderança, inspiração e motivação, delegação eficiente de tarefas, feedback construtivo, inteligencia emocional e o que o mercado espera de você.
+            • Conteúdo: Comunicação verbal e escrita, escuta ativa, empatia, gestão de diversidade, liderança, inspiração e motivação, delegação eficiente de tarefas, feedback construtivo, inteligencia emocional e o que o mercado espera de você.
 
-        • Materiais: Notas de aula, cases.
+            • Materiais: Notas de aula, cases.
 
             
+2º Semestre
+
+    • Disciplinas: Técnica de Programação 🧑‍💻
+
+        • Linguagem de Programação : Python
+
+            • Conteúdo: 
+                    ● Tópicos Intermediários em Linguagem Python: Sintaxe. Variáveis e estrutura básica de um programa.
+
+                    ● Tipos de Dados Estruturados: Definição. Tipos: sequências mutáveis (listas) e imutáveis
+                    (strings e tuplas). Operações básicas e aplicações.
+
+                    ● Funções: Definição e Vantagens. Escopo dos Dados e do Código. Componentes de uma
+                    função. Parâmetro de Entrada e Saída. Escopo de variáveis e solicitação de execução de
+                    função. Reentrância e recursão.
+
+                    ● Arquivos: Definição de armazenamento persistente. Arquivos em modo texto e binário.
+
+                    ● Algoritmos: Recursividade. Ciência na elaboração de programas. Introdução à complexidade de
+                    algoritmos. Busca linear e binária. Seleção rápida. Ordenação: Bubble Sort, Selection Sort,
+                    Insertion Sort, Heap Sort, Merge Sort e Quick Sort.
+
+            • Materiais: Notas de aula, exercícios de lógica, projetos.
+
+
 
 # 🚀 Como Usar este Repositório
 Para acessar os materiais, você pode:
